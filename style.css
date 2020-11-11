@@ -1,0 +1,62 @@
+html {
+    background: #8f9fa7;
+
+}
+
+body {
+    background: #ffffff;
+    font-family: Ink free, verdana;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 5% 20%;
+    
+}
+
+h1 {
+    color: black;
+        font-family: verdana;
+    font-size: 200%;
+    text-align: center;
+    
+}
+
+h2 {
+    color: black;
+    font-family: verdana;
+    font-size: 15pt;
+    text-align: center;
+}
+h3 {
+    color: black;
+    font-family: verdana;
+    font-size: 9pt;
+    text-align: center;
+}
+h4 {
+    color: black;
+    font-family: verdana;
+    font-size: 10pt;
+    text-align: center;
+}
+h5 {
+    color: black;
+    font-family: verdana;
+    font-size: 19pt;
+    text-align: center;
+    
+}
+img {
+    float: right;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+
+
+
+p {
+    border: 2px solid #ffffff;
+    margin: 10px;
+}
