@@ -12,6 +12,10 @@ body {
     
 }
 
+td {
+border:none;
+}
+
 h1 {
     color: black;
         font-family: verdana;
